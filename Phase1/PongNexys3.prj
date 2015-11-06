@@ -1,0 +1,4 @@
+verilog work "ipcore_dir/Clock50MHz.v"
+verilog work "video_timer.v"
+verilog work "game.v"
+verilog work "pong.v"
